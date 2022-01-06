@@ -48,7 +48,7 @@ header{
     margin-top: 120px;
 }
 #header-img{
-    width:60%;
+    width:90%;
     height:500px;
     padding-top:40px;
     padding-right: 80px;;
@@ -67,11 +67,57 @@ header{
     margin:20px 130px;
 }
 .quater-div{
-    width:20%;
-    padding-left:120px;
+    width:23%;
+    margin-left:40px;
+    box-shadow: 10px 10px 60px gray;
+    padding:20px;
+    border-radius:7px;
   
 }
+.quater-div h2{
+    font-size:30px;
+}
 .quater-div img{
-    width:70px;
+    width:190px;
     margin: 0 auto;
+    padding-left:20%;
+    
+}
+.mission-1{
+    background-color:rgb(240, 179, 209);
+    margin-left:120px;
+}
+.mission-2{
+    background-color:rgb(240, 236, 179);
+}
+.mission-3{
+    background-color:rgb(198, 240, 179);
+}
+.dev-limit{
+    margin-top:90px;
+
+}
+.dev-pic{
+    width:30%;
+}
+.dev-lim-pc{
+   width:100%;
+   padding-left:70px;
+   background-image: url(images/shapes/shape-1.png);
+   background-repeat:no-repeat;
+   background-position:left;
+   background-size: 190px;
+}
+.dev-lim-t{
+    width:70%;
+    padding-left:130px;
+}
+.dev-lim-t h1{
+    font-size:40px;
+}
+.dev-lim-t p{
+    margin-bottom: 50px;
+    font-size:20px;
+    color:gray;
+    
 }
