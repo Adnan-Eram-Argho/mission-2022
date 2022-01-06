@@ -49,7 +49,7 @@ header{
     margin-top: 120px;
 }
 #header-img{
-    width:90%;
+    width:100%;
     height:500px;
     padding-top:40px;
     padding-right: 80px;;
@@ -166,4 +166,33 @@ footer h1{
 footer p{
     color:lavender;
     padding-bottom:40px;
+}
+.my-self{
+    margin-top:90px;
+}
+.self{
+    width:60%;
+    height:500px;
+    background-image:url(images/shapes/shape-6.png) ;
+    background-repeat:no-repeat;
+    background-size:500px;
+    text-align:center;
+}
+.self h2{
+    padding-top:120px;
+    padding-right:120px;
+    font-family: 'Lobster', cursive;
+}
+.chart{
+    background-image: linear-gradient(rgba(255, 0, 0, 0.541),rgba(250, 128, 114, 0.747));
+    height:300px;
+    width:350px;
+    border-radius: 8px;;
+    text-align:center;
+    margin-top:70px;
+}
+ul{
+    list-style-type: none;
+    text-align: left;
+    padding-left:30px;
 }
