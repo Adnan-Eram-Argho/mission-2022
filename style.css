@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin:0;
 }
 header{
     display:flex;
@@ -120,4 +121,49 @@ header{
     font-size:20px;
     color:gray;
     
+}
+.community{
+    margin-top:70px;
+    padding-bottom:90px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat:no-repeat;
+    background-position:right bottom;
+    background-size: 190px;
+}
+.dev-com-t{
+    width:70%;
+}
+.dev-com-t h1{
+    font-size:40px;
+}
+.dev-com-t p{
+    margin-bottom: 50px;
+    font-size:20px;
+    color:gray;
+    
+}
+.com-pic-div{
+    width:30%;
+
+}
+.com-pic{
+    width:100%;
+    padding-right:30px;
+
+}
+
+
+footer{
+    background-color:indigo;
+    text-align:center;
+    margin-bottom:0;
+}
+footer h1{
+    color:white;
+    padding-top:40px;
+    font-family: 'Lobster', cursive;
+}
+footer p{
+    color:lavender;
+    padding-bottom:40px;
 }
